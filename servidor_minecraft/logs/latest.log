@@ -350,3 +350,42 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jul2025 01:05:04.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ELNOOB897]
 [22Jul2025 01:05:04.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ELNOOB897]
 [22Jul2025 01:05:05.078] [Server thread/INFO] [do_a_barrel_roll/]: Client of ELNOOB897 accepted server config.
+[22Jul2025 01:05:54.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[22Jul2025 01:09:47.261] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 01:09:47.375] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 01:09:47.415] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 01:09:47.489] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 01:09:47.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 01:09:47.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 01:09:47.603] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 01:09:47.604] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 01:09:47.717] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 01:09:47.723] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 01:09:47.831] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 01:09:47.831] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 01:09:48.109] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 01:09:48.110] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 01:09:48.113] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 01:09:48.119] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 01:09:51.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fanta_fox[/127.5.160.154:58909] logged in with entity id 1860 at (-26.424340720733806, 181.0, 248.30000001192093)
+[22Jul2025 01:09:51.400] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Fanta_fox
+[22Jul2025 01:09:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox joined the game
+[22Jul2025 01:09:52.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2f7898f-64ea-3165-83a5-5aeed2e0d8fd was loaded
+[22Jul2025 01:09:52.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
+[22Jul2025 01:09:52.133] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
+[22Jul2025 01:09:52.615] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:12:34.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Survival Mode]
+[22Jul2025 01:12:43.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox has succumbed to the infection
+[22Jul2025 01:12:47.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
+[22Jul2025 01:12:47.307] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
+[22Jul2025 01:12:47.307] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:12:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox was slain by cFeshq
+[22Jul2025 01:13:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq was slain by ELNOOB897
+[22Jul2025 01:13:24.842] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [cFeshq]
+[22Jul2025 01:13:24.843] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [cFeshq]
+[22Jul2025 01:13:24.843] [Server thread/INFO] [do_a_barrel_roll/]: Client of cFeshq accepted server config.
+[22Jul2025 01:14:04.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cFeshq lost connection: Disconnected
+[22Jul2025 01:14:04.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq left the game
+[22Jul2025 01:14:04.673] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82454fc6-3e7d-31bb-bbe6-25510424a000 was unloaded
+[22Jul2025 01:14:16.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fanta_fox lost connection: Disconnected
+[22Jul2025 01:14:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox left the game
