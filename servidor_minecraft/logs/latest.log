@@ -389,3 +389,133 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Jul2025 01:14:04.673] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82454fc6-3e7d-31bb-bbe6-25510424a000 was unloaded
 [22Jul2025 01:14:16.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fanta_fox lost connection: Disconnected
 [22Jul2025 01:14:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox left the game
+[22Jul2025 01:15:12.600] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 01:15:12.707] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 01:15:12.725] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 01:15:12.813] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 01:15:12.814] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 01:15:12.922] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 01:15:12.932] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 01:15:13.026] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 01:15:13.027] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 01:15:13.132] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 01:15:13.132] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 01:15:13.133] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 01:15:13.389] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 01:15:13.390] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 01:15:13.394] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 01:15:13.397] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 01:15:16.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cFeshq[/127.219.67.210:47211] logged in with entity id 2207 at (-25.491314885918758, 181.0, 246.17376089909718)
+[22Jul2025 01:15:16.742] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player cFeshq
+[22Jul2025 01:15:16.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq joined the game
+[22Jul2025 01:15:17.350] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82454fc6-3e7d-31bb-bbe6-25510424a000 was loaded
+[22Jul2025 01:15:17.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [cFeshq]
+[22Jul2025 01:15:17.351] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [cFeshq]
+[22Jul2025 01:15:17.672] [Server thread/INFO] [do_a_barrel_roll/]: Client of cFeshq accepted server config.
+[22Jul2025 01:18:42.667] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 01:18:42.782] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 01:18:42.823] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 01:18:42.896] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 01:18:42.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 01:18:42.922] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 01:18:43.010] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 01:18:43.011] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 01:18:43.126] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 01:18:43.166] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 01:18:43.239] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 01:18:43.272] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 01:18:43.420] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 01:18:43.420] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 01:18:43.467] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 01:18:43.474] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 01:18:46.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fanta_fox[/127.5.160.154:48333] logged in with entity id 2508 at (-26.5, 181.0, 245.5)
+[22Jul2025 01:18:46.840] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Fanta_fox
+[22Jul2025 01:18:46.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox joined the game
+[22Jul2025 01:18:48.105] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:18:51.557] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
+[22Jul2025 01:18:51.558] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
+[22Jul2025 01:18:51.624] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:20:33.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fanta_fox lost connection: Disconnected
+[22Jul2025 01:20:33.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox left the game
+[22Jul2025 01:20:33.222] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2f7898f-64ea-3165-83a5-5aeed2e0d8fd was unloaded
+[22Jul2025 01:20:35.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> soy np
+[22Jul2025 01:20:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> te veo con el creeper
+[22Jul2025 01:20:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Jul2025 01:20:55.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[22Jul2025 01:20:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[22Jul2025 01:21:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> dame admi y ya
+[22Jul2025 01:21:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> tmer
+[22Jul2025 01:21:31.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELNOOB897> solo danos admin como compensación
+[22Jul2025 01:21:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22Jul2025 01:21:31.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule difficult normal<--[HERE]
+[22Jul2025 01:21:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELNOOB897> :v
+[22Jul2025 01:21:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> dame admi por 1 segundo pa romper
+[22Jul2025 01:21:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22Jul2025 01:21:44.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule difficulty normal<--[HERE]
+[22Jul2025 01:22:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Normal
+[22Jul2025 01:22:36.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['DawnsSlayers'/2719, l='ServerLevel[Mundo TLOU]', x=15.86, y=121.00, z=312.45] died: DawnsSlayers was slain by Zombie
+[22Jul2025 01:22:43.966] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 01:22:44.083] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 01:22:44.123] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 01:22:44.198] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 01:22:44.230] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 01:22:44.230] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 01:22:44.312] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 01:22:44.312] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 01:22:44.426] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 01:22:44.428] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 01:22:44.541] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 01:22:44.541] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 01:22:44.824] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 01:22:44.828] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 01:22:44.828] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 01:22:44.868] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 01:22:48.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fanta_fox[/127.5.160.154:54715] logged in with entity id 3661 at (-26.5, 181.0, 245.5)
+[22Jul2025 01:22:48.095] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Fanta_fox
+[22Jul2025 01:22:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox joined the game
+[22Jul2025 01:22:48.798] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2f7898f-64ea-3165-83a5-5aeed2e0d8fd was loaded
+[22Jul2025 01:22:48.798] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
+[22Jul2025 01:22:48.798] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
+[22Jul2025 01:22:49.327] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:22:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Successfully filled 58 block(s)]
+[22Jul2025 01:22:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq has made the advancement [Hunt and Gather]
+[22Jul2025 01:23:05.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 has made the advancement [Getting an Upgrade]
+[22Jul2025 01:23:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 was eaten alive by Infected Scientist
+[22Jul2025 01:23:42.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 has made the advancement [That suit was just for show]
+[22Jul2025 01:23:44.496] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ELNOOB897]
+[22Jul2025 01:23:44.496] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ELNOOB897]
+[22Jul2025 01:23:44.496] [Server thread/INFO] [do_a_barrel_roll/]: Client of ELNOOB897 accepted server config.
+[22Jul2025 01:24:01.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq has made the advancement [Monster Hunter]
+[22Jul2025 01:24:19.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELNOOB897 lost connection: Disconnected
+[22Jul2025 01:24:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 left the game
+[22Jul2025 01:24:19.078] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 70cad2ee-5b16-39d1-8b21-9e6422883547 was unloaded
+[22Jul2025 01:24:29.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox has succumbed to the infection
+[22Jul2025 01:24:34.182] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
+[22Jul2025 01:24:34.182] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
+[22Jul2025 01:24:34.182] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[22Jul2025 01:24:48.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq has made the advancement [That suit was just for show]
+[22Jul2025 01:24:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq was eaten alive by Infected Scientist
+[22Jul2025 01:24:56.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [cFeshq]
+[22Jul2025 01:24:56.435] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [cFeshq]
+[22Jul2025 01:24:56.435] [Server thread/INFO] [do_a_barrel_roll/]: Client of cFeshq accepted server config.
+[22Jul2025 01:25:13.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fanta_fox lost connection: Disconnected
+[22Jul2025 01:25:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox left the game
+[22Jul2025 01:25:13.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2f7898f-64ea-3165-83a5-5aeed2e0d8fd was unloaded
+[22Jul2025 01:25:14.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ELNOOB897'/4034, l='ServerLevel[Mundo TLOU]', x=-15.64, y=176.00, z=254.38] died: ELNOOB897 was blown up by Infected Scientist
+[22Jul2025 01:25:47.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cFeshq lost connection: Disconnected
+[22Jul2025 01:25:47.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq left the game
+[22Jul2025 01:25:47.126] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82454fc6-3e7d-31bb-bbe6-25510424a000 was unloaded
+[22Jul2025 01:27:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jul2025 01:27:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jul2025 01:27:19.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jul2025 01:27:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jul2025 01:27:19.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo TLOU]'/minecraft:overworld
+[22Jul2025 01:27:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo TLOU]'/minecraft:the_nether
+[22Jul2025 01:27:19.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo TLOU]'/minecraft:the_end
+[22Jul2025 01:27:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundo TLOU]'/lostcities:lostcity
+[22Jul2025 01:27:19.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jul2025 01:27:19.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jul2025 01:27:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jul2025 01:27:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Jul2025 01:27:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jul2025 01:27:19.428] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@1f260f1d
