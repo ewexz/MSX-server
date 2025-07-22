@@ -71,5 +71,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2025-07-17 22:38:19 +0000",
+      "minecraft:river": "2025-07-17 22:41:25 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

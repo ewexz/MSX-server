@@ -1,21 +1,21 @@
-[17Jul2025 22:28:49.063] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[17Jul2025 22:28:49.069] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[17Jul2025 22:28:54.028] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[17Jul2025 22:28:54.132] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[17Jul2025 22:28:54.672] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jul2025 22:28:54.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jul2025 22:28:54.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jul2025 22:28:54.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[17Jul2025 22:28:55.377] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[17Jul2025 22:28:55.379] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[17Jul2025 22:28:58.444] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Jul2025 22:28:58.564] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[17Jul2025 22:28:58.628] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jul2025 22:28:58.878] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.1+mc1.20.1: 95 options available, 0 override(s) found
-[17Jul2025 22:28:58.879] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[17Jul2025 22:28:58.908] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[17Jul2025 22:28:59.074] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17Jul2025 22:28:59.196] [main/INFO] [Puzzles Lib/]: Loading 44 mods:
+[22Jul2025 00:44:40.722] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Jul2025 00:44:40.727] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[22Jul2025 00:44:41.937] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Jul2025 00:44:41.989] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Jul2025 00:44:42.329] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 00:44:42.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 00:44:42.332] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 00:44:42.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jul2025 00:44:42.683] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Jul2025 00:44:42.685] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[22Jul2025 00:44:44.858] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jul2025 00:44:44.960] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Jul2025 00:44:44.991] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jul2025 00:44:45.103] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.23.1+mc1.20.1: 95 options available, 0 override(s) found
+[22Jul2025 00:44:45.104] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22Jul2025 00:44:45.120] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[22Jul2025 00:44:45.210] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jul2025 00:44:45.284] [main/INFO] [Puzzles Lib/]: Loading 44 mods:
 	- alekiships 1.0.14
 	- alexsmobs 1.22.9
 	- appleskin 2.5.1+mc1.20.1
@@ -60,67 +60,67 @@
 	- tectonic 2.4.1
 	- terralith 2.5.4
 	- treechop 0.19.0
-[17Jul2025 22:29:00.938] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17Jul2025 22:29:01.689] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (18.84 s after launch)
-[17Jul2025 22:29:01.963] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[17Jul2025 22:29:01.963] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[17Jul2025 22:29:04.365] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2671 milliseconds
-[17Jul2025 22:29:07.824] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[17Jul2025 22:29:07.841] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[17Jul2025 22:29:07.919] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
-[17Jul2025 22:29:08.238] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[17Jul2025 22:29:08.243] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[17Jul2025 22:29:08.384] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
-[17Jul2025 22:29:08.452] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
-[17Jul2025 22:29:08.497] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
-[17Jul2025 22:29:08.782] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[17Jul2025 22:29:08.833] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[17Jul2025 22:29:11.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@79d7ae7d has been registered twice for the same name treechop:chop_wood.
-[17Jul2025 22:29:12.756] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[17Jul2025 22:29:12.756] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[17Jul2025 22:29:14.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
-[17Jul2025 22:29:14.184] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
-[17Jul2025 22:29:14.185] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[17Jul2025 22:29:14.435] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
-[17Jul2025 22:29:14.708] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[17Jul2025 22:29:14.793] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[17Jul2025 22:29:14.842] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[17Jul2025 22:29:14.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[17Jul2025 22:29:14.942] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[17Jul2025 22:29:14.983] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[17Jul2025 22:29:14.984] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[17Jul2025 22:29:14.984] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[17Jul2025 22:29:14.984] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[17Jul2025 22:29:15.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
-[17Jul2025 22:29:15.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
-[17Jul2025 22:29:15.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[17Jul2025 22:29:15.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[17Jul2025 22:29:15.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[17Jul2025 22:29:15.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Jul2025 22:29:15.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[17Jul2025 22:29:15.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[17Jul2025 22:29:15.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
-[17Jul2025 22:29:15.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[17Jul2025 22:29:15.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[17Jul2025 22:29:15.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[17Jul2025 22:29:15.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[17Jul2025 22:29:15.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[17Jul2025 22:29:15.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[17Jul2025 22:29:16.231] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17Jul2025 22:29:16.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[17Jul2025 22:29:16.626] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[17Jul2025 22:29:31.701] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/MSX-server/servidor_minecraft/tacz
-[17Jul2025 22:29:31.703] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
-[17Jul2025 22:29:31.703] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
-[17Jul2025 22:29:33.260] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[17Jul2025 22:29:34.395] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[17Jul2025 22:29:34.412] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
-[17Jul2025 22:29:35.242] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+[22Jul2025 00:44:46.579] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Jul2025 00:44:47.095] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.947 s after launch)
+[22Jul2025 00:44:47.225] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[22Jul2025 00:44:47.226] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[22Jul2025 00:44:49.289] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2190 milliseconds
+[22Jul2025 00:44:52.259] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Jul2025 00:44:52.280] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Jul2025 00:44:52.338] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stoneworks:main
+[22Jul2025 00:44:52.588] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Jul2025 00:44:52.589] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Jul2025 00:44:52.841] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[22Jul2025 00:44:52.988] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[22Jul2025 00:44:53.069] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[22Jul2025 00:44:53.253] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Jul2025 00:44:53.340] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Jul2025 00:44:55.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@15774e00 has been registered twice for the same name treechop:chop_wood.
+[22Jul2025 00:44:56.511] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[22Jul2025 00:44:56.511] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Jul2025 00:44:57.599] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
+[22Jul2025 00:44:57.600] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
+[22Jul2025 00:44:57.601] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[22Jul2025 00:44:57.838] [main/INFO] [Puzzles Lib/]: Loading common config for stoneworks
+[22Jul2025 00:44:58.082] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[22Jul2025 00:44:58.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[22Jul2025 00:44:58.154] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[22Jul2025 00:44:58.214] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[22Jul2025 00:44:58.294] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[22Jul2025 00:44:58.295] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[22Jul2025 00:44:58.296] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[22Jul2025 00:44:58.296] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[22Jul2025 00:44:58.296] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[22Jul2025 00:44:58.297] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[22Jul2025 00:44:58.297] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[22Jul2025 00:44:58.297] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[22Jul2025 00:44:58.298] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[22Jul2025 00:44:58.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
+[22Jul2025 00:44:58.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stoneworks.json
+[22Jul2025 00:44:58.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stoneworks] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[22Jul2025 00:44:58.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Jul2025 00:44:58.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[22Jul2025 00:44:58.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jul2025 00:44:58.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Jul2025 00:44:58.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[22Jul2025 00:44:58.583] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[22Jul2025 00:44:59.064] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.21 Target: null
+[22Jul2025 00:44:59.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[22Jul2025 00:44:59.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[22Jul2025 00:44:59.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22Jul2025 00:44:59.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[22Jul2025 00:44:59.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Jul2025 00:44:59.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[22Jul2025 00:44:59.415] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jul2025 00:44:59.790] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[22Jul2025 00:44:59.790] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[22Jul2025 00:45:06.651] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/MSX-server/servidor_minecraft/tacz
+[22Jul2025 00:45:06.653] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[22Jul2025 00:45:06.653] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[22Jul2025 00:45:07.839] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[22Jul2025 00:45:09.174] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Jul2025 00:45:09.189] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[22Jul2025 00:45:10.017] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -172,93 +172,86 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[17Jul2025 22:29:35.790] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
-[17Jul2025 22:29:36.015] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
-[17Jul2025 22:29:36.262] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4702 advancements
-[17Jul2025 22:29:36.430] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
-[17Jul2025 22:29:36.431] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
-[17Jul2025 22:29:36.549] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[17Jul2025 22:29:36.552] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[17Jul2025 22:29:36.668] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[17Jul2025 22:29:36.713] [main/WARN] [ModernFix/]: Initial datapack load took 20.04 s
-[17Jul2025 22:29:37.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[17Jul2025 22:29:37.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Jul2025 22:29:37.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Jul2025 22:29:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Jul2025 22:29:37.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Jul2025 22:29:37.236] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Jul2025 22:29:37.360] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Jul2025 22:29:37.361] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Jul2025 22:29:37.361] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Jul2025 22:29:37.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Jul2025 22:29:37.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Jul2025 22:29:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Jul2025 22:29:38.815] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[17Jul2025 22:29:39.766] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:39.766] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:39.779] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:40.345] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:40.619] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[17Jul2025 22:29:40.859] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:41.284] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:41.666] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Jul2025 22:29:42.437] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3771 ms
-[17Jul2025 22:29:42.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.059s)! For help, type "help"
-[17Jul2025 22:29:42.507] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Jul2025 22:29:42.515] [Server thread/WARN] [ModernFix/]: Dedicated server took 59.663 seconds to load
-[17Jul2025 22:29:47.511] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[17Jul2025 22:29:47.563] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[17Jul2025 22:29:47.581] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[17Jul2025 22:29:47.581] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[17Jul2025 22:29:47.680] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[17Jul2025 22:29:47.683] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[17Jul2025 22:29:47.800] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[17Jul2025 22:29:47.801] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[17Jul2025 22:29:47.918] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[17Jul2025 22:29:47.932] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[17Jul2025 22:29:47.932] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[17Jul2025 22:29:48.001] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[17Jul2025 22:29:48.324] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[17Jul2025 22:29:48.335] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[17Jul2025 22:29:48.336] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[17Jul2025 22:29:48.376] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[17Jul2025 22:29:51.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELNOOB897[/127.81.4.235:39111] logged in with entity id 126 at (-26.5, 181.0, 245.5)
-[17Jul2025 22:29:51.768] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ELNOOB897
-[17Jul2025 22:29:51.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 joined the game
-[17Jul2025 22:29:53.848] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 70cad2ee-5b16-39d1-8b21-9e6422883547 was loaded
-[17Jul2025 22:29:53.849] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ELNOOB897]
-[17Jul2025 22:29:53.850] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ELNOOB897]
-[17Jul2025 22:29:54.237] [Server thread/INFO] [do_a_barrel_roll/]: Client of ELNOOB897 accepted server config.
-[17Jul2025 22:30:36.541] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[17Jul2025 22:30:36.666] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[17Jul2025 22:30:36.679] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[17Jul2025 22:30:36.679] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[17Jul2025 22:30:36.792] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[17Jul2025 22:30:36.793] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[17Jul2025 22:30:36.917] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[17Jul2025 22:30:36.927] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[17Jul2025 22:30:36.927] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[17Jul2025 22:30:37.042] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[17Jul2025 22:30:37.043] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[17Jul2025 22:30:37.101] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[17Jul2025 22:30:37.408] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[17Jul2025 22:30:37.428] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[17Jul2025 22:30:37.429] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[17Jul2025 22:30:37.429] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[17Jul2025 22:30:40.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fanta_fox[/127.5.160.154:41733] logged in with entity id 233 at (-26.592737618112956, 181.0, 245.30000001192093)
-[17Jul2025 22:30:40.726] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Fanta_fox
-[17Jul2025 22:30:40.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox joined the game
-[17Jul2025 22:30:41.978] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2f7898f-64ea-3165-83a5-5aeed2e0d8fd was loaded
-[17Jul2025 22:30:41.979] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Fanta_fox]
-[17Jul2025 22:30:41.979] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Fanta_fox]
-[17Jul2025 22:30:42.529] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
-[17Jul2025 22:31:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set ELNOOB897's game mode to Spectator Mode]
-[17Jul2025 22:31:44.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_eating] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
-[17Jul2025 22:31:44.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_seeing] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
-[17Jul2025 22:31:53.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Spectator Mode]
-[17Jul2025 22:32:29.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Teleported Fanta_fox to ELNOOB897]
-[17Jul2025 22:33:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Teleported Fanta_fox to ELNOOB897]
-[17Jul2025 22:34:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
-[17Jul2025 22:35:20.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Spectator Mode]
-[17Jul2025 22:37:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Teleported ELNOOB897 to Fanta_fox]
-[17Jul2025 22:38:01.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Teleported Fanta_fox to ELNOOB897]
+[22Jul2025 00:45:10.544] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[22Jul2025 00:45:10.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
+[22Jul2025 00:45:10.768] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4702 advancements
+[22Jul2025 00:45:10.861] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[22Jul2025 00:45:10.863] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[22Jul2025 00:45:10.929] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[22Jul2025 00:45:10.931] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Jul2025 00:45:10.978] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[22Jul2025 00:45:10.999] [main/WARN] [ModernFix/]: Initial datapack load took 11.18 s
+[22Jul2025 00:45:11.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Jul2025 00:45:11.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jul2025 00:45:11.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jul2025 00:45:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jul2025 00:45:11.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jul2025 00:45:11.319] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jul2025 00:45:11.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jul2025 00:45:11.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jul2025 00:45:11.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jul2025 00:45:11.395] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jul2025 00:45:11.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jul2025 00:45:12.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jul2025 00:45:14.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:14.170] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:14.170] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:14.170] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:14.170] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:14.665] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jul2025 00:45:15.308] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3145 ms
+[22Jul2025 00:45:15.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.902s)! For help, type "help"
+[22Jul2025 00:45:15.360] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jul2025 00:45:15.365] [Server thread/WARN] [ModernFix/]: Dedicated server took 37.217 seconds to load
+[22Jul2025 00:46:59.810] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 00:46:59.912] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 00:46:59.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 00:47:00.019] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 00:47:00.020] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 00:47:00.126] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 00:47:00.166] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 00:47:00.231] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 00:47:00.271] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 00:47:00.271] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 00:47:00.337] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 00:47:00.338] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 00:47:00.633] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 00:47:00.634] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 00:47:00.670] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 00:47:00.671] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 00:47:03.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cFeshq[/127.219.67.210:52589] logged in with entity id 238 at (-26.5, 181.0, 245.5)
+[22Jul2025 00:47:04.043] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player cFeshq
+[22Jul2025 00:47:04.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq joined the game
+[22Jul2025 00:47:04.661] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 82454fc6-3e7d-31bb-bbe6-25510424a000 was loaded
+[22Jul2025 00:47:04.662] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [cFeshq]
+[22Jul2025 00:47:04.663] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [cFeshq]
+[22Jul2025 00:47:04.979] [Server thread/INFO] [do_a_barrel_roll/]: Client of cFeshq accepted server config.
+[22Jul2025 00:47:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cFeshq has made the advancement [Alex's Mobs]
+[22Jul2025 00:48:06.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[22Jul2025 00:48:06.144] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[22Jul2025 00:48:06.172] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[22Jul2025 00:48:06.173] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[22Jul2025 00:48:06.173] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[22Jul2025 00:48:06.356] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[22Jul2025 00:48:06.368] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[22Jul2025 00:48:06.368] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[22Jul2025 00:48:06.368] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[22Jul2025 00:48:06.526] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[22Jul2025 00:48:06.527] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[22Jul2025 00:48:06.527] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[22Jul2025 00:48:06.929] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[22Jul2025 00:48:06.929] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[22Jul2025 00:48:06.936] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[22Jul2025 00:48:06.956] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[22Jul2025 00:48:10.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELNOOB897[/127.254.100.195:49393] logged in with entity id 346 at (-26.794576725667262, 181.0, 246.30000001192093)
+[22Jul2025 00:48:10.511] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ELNOOB897
+[22Jul2025 00:48:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 joined the game
+[22Jul2025 00:48:13.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 70cad2ee-5b16-39d1-8b21-9e6422883547 was loaded
+[22Jul2025 00:48:13.883] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [ELNOOB897]
+[22Jul2025 00:48:13.883] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [ELNOOB897]
+[22Jul2025 00:48:13.976] [Server thread/INFO] [do_a_barrel_roll/]: Client of ELNOOB897 accepted server config.
+[22Jul2025 00:50:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> no lagea nada el sv :V
+[22Jul2025 00:50:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELNOOB897 has made the advancement [Alex's Mobs]
+[22Jul2025 00:52:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> te mato mejor
+[22Jul2025 00:52:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> a lo mejor respawneas en otro lado
+[22Jul2025 00:53:12.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cFeshq> entra con vpn
